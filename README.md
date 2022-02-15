@@ -1,2 +1,2 @@
 # LearningSpace
-A Repository dedicated for all my Learnings!
+A Repository dedicated to my Learnings!
