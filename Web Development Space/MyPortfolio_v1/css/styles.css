@@ -1,0 +1,237 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color:  #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color:  #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding-left: 12px;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #C8C6C6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+li {
+  line-height: 2;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px 0 100px 0;
+  margin: auto ;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.my-image {
+  width: 10%;
+}
+/* .top-cloud {
+  width: 8%;
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  width: 6%;
+  position: absolute;
+  right: 400px;
+  bottom: 80px;
+}
+
+.top-pattern1-img {
+  width: 8%;
+  position: absolute;
+  right: 450px;
+  bottom: 40px;
+  transform: rotate(170deg);
+} */
+.top-pattern2-img {
+  width: 12%;
+  position: absolute;
+  left: 340px;
+  top: 40px;
+  transform: rotate(-20deg);
+}
+
+
+.footer-link {
+  color: #316B83;
+}
+
+.project-row {
+  line-height: 2;
+}
+
+/* before skill-row */
+.awards-row {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.intro-role {
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.pro-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-app-img {
+  width: 5%;
+  margin: 50px 0 0;
+}
+
+.ai-img {
+  width: 5%;
+  margin: 80px 0 0;
+}
+
+.certificate-img {
+  width: 20%;
+  float: right;
+  margin: 40px 0 0 30px;
+}
+
+
+.achievement-img {
+  width: 20%;
+  float: left;
+  margin: 40px 30px 0 0;
+}
+
+.web-dev-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.about-me-intro {
+  width: 57%;
+  margin: auto 25% auto;
+  line-height: 2;
+}
+
+.cert-heading {
+  padding-left: 25px;
+}
+
+.achievers-heading {
+  padding-left: 0;
+}
+.skills-row {
+  position: relative;
+  background-color: #C8E3D4;
+  color: #316B83;
+}
+
+.child-table1 {
+  padding: 2% 5% 2% 5%;
+}
+
+.contact-message {
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+.footer-mailto {
+  color: #316B83;
+}
+.copyright-note {
+  color: #D3E4CD;
+  font-size: 1rem;
+  padding: 20px 0;
+}
