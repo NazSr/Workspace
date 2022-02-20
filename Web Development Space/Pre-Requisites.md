@@ -1,7 +1,0 @@
-**PRE_REQUISITES**
-
-1. Command **npm install** To Run Following Applications -
-  1.1 ToDoList-React
-  1.2 ContactBook
-  1.3 Emojipedia
-  1.4 Keeper
