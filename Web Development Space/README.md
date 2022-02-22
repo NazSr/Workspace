@@ -7,6 +7,9 @@
 4. Keeper
 
 
-**npm install express, ejs, body-parser, mongoose, lodash**
+**npm install express, ejs, body-parser, mongoose, lodash, request, html**
 1. Daily Journal-Blog
 2. ToDoList-EJS
+3. Weather App
+4. Wiki App
+5. Newsletter-signup
